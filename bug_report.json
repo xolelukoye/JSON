@@ -1,9 +1,0 @@
-var bug_report = {
-name: "search for all users in DB",
-priority: "High",
-step_1: "execute REST request",
-step_2: "go to link",
-step_3: "Check whether this user exist",
-expected_result: "user exists",
-actual_result: "response body ..."
-}
